@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">CarDealer</string>
+
+    <string name="string_name">Nombre del Carro</string>
+    <string name="string_brand">Marca</string>
+    <string name="string_year">Año</string>
+    <string name="string_milage">Kilometraje</string>
+    <string name="string_price">Precio</string>
+
+    <string name="without_registry">No hay registro de Carros</string>
+    <string name="required_error">Valor requerido</string>
+    <string name="inputs_full">Todos los campos tienen que estar llenos</string>
+
+    <string name="success_registry">Registro guardado exitosamente</string>
+    <string name="save_error">Error al guardar el registro</string>
+    <string name="year_error">Año incorrecto</string>
+
+    <string name="confirmation">Confirmacion</string>
+    <string name="delete_confirmation">¿Realmente deseas eliminar al</string>
+    <string name="success_delete">Registro eliminado exitosamente</string>
+
+    <string name="success_update">Registro actualizado exitosamente</string>
+    <string name="update_error">Error al actualizar el registro</string>
+
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+
+    <string name="add">Agregar</string>
+    <string name="borrar">Borrar</string>
+    <string name="editar">Editar</string>
+    <string name="update">Actualizar</string>
+    <string name="stage">Escenario</string>
+
+    <string-array name="stage_list">
+        <item>@string/item1</item>
+        <item>@string/item2</item>
+        <item>@string/item3</item>
+        <item>@string/item4</item>
+        <item>@string/item5</item>
+        <item>@string/item6</item>
+        <item>@string/item7</item>
+        <item>@string/item8</item>
+        <item>@string/item9</item>
+        <item>@string/item10</item>
+        <item>@string/item11</item>
+        <item>@string/item12</item>
+        <item>@string/item13</item>
+        <item>@string/item14</item>
+        <item>@string/item15</item>
+        <item>@string/item16</item>
+        <item>@string/item17</item>
+        <item>@string/item18</item>
+        <item>@string/item19</item>
+        <item>@string/item20</item>
+        <item>@string/item21</item>
+        <item>@string/item22</item>
+        <item>@string/item23</item>
+        <item>@string/item24</item>
+        <item>@string/item25</item>
+        <item>@string/item26</item>
+    </string-array>
+
+    <string name="item1">BMW</string>
+    <string name="item2">Mercedez Benz</string>
+    <string name="item3">Nissan</string>
+    <string name="item4">Toyota</string>
+    <string name="item5">Ferrari</string>
+    <string name="item6">Lamborghini</string>
+    <string name="item7">Audi</string>
+    <string name="item8">Aston Martin</string>
+    <string name="item9">Mclaren</string>
+    <string name="item10">Alfa Romeo</string>
+    <string name="item11">Volkwagen</string>
+    <string name="item12">Mazda</string>
+    <string name="item13">Pagani</string>
+    <string name="item14">Porsche</string>
+    <string name="item15">Ford</string>
+    <string name="item16">Chevrolet</string>
+    <string name="item17">Dodge</string>
+    <string name="item18">Tesla</string>
+    <string name="item19">Honda</string>
+    <string name="item20">Maserati</string>
+    <string name="item21">Jaguar</string>
+    <string name="item22">Bentley</string>
+    <string name="item23">Lincoln</string>
+    <string name="item24">Rolls Royce</string>
+    <string name="item25">Cadillac</string>
+    <string name="item26">Subaru</string>
+</resources>
